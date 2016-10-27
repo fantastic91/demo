@@ -1,0 +1,5 @@
+demo.action:
+  route_name: demo.route
+  title: Add demo item
+  appears_on:
+    - system.admin_content
