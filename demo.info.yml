@@ -1,0 +1,11 @@
+name: Drupal 8 Demo
+description: 'Drupal 8 demo module'
+type: module
+core: 8.x
+
+# dependencies:
+#  - node
+# test_dependencies:
+#   - test_module
+#
+# configure: configure.route
