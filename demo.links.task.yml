@@ -1,0 +1,4 @@
+demo.task:
+  title: Demo task
+  route_name: demo.route
+  base_route: system.admin_content
