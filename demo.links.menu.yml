@@ -1,0 +1,5 @@
+demo.route:
+  title: 'Demo menu item'
+  parent: system.admin_structure
+  description: 'Provides a link to the demo route.'
+  route_name: demo.route
